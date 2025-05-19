@@ -1,0 +1,27 @@
+/* Custom styles for blue sidebar */
+.main-sidebar {
+    background-color: rgb(63, 92, 209)!important;
+}
+
+.sidebar-menu > li > a {
+    color: #fff !important;
+}
+
+.sidebar-menu > li > a:hover,
+.sidebar-menu > li.active > a {
+    background-color: #367fa9 !important;
+    color: #fff !important;
+}
+
+.user-panel > .info > a {
+    color: #fff !important;
+}
+
+.user-panel > .info > p {
+    color: #fff !important;
+}
+
+.sidebar-menu > li.header {
+    color: #fff !important;
+    background-color: #367fa9 !important;
+} 
